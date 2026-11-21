@@ -47,11 +47,7 @@ I'm interested in software development, backend technologies, and building pract
 - Role-based authentication for Job Seekers, Employers and Admins.
 - Job posting and recruitment management.
 
-**2. Online Food Order Processing System**
-- A project focused on online food ordering and order processing.
-- Designed to manage food orders through a digital platform.
-
-**3. Digital Ebook Lending System – Frontend**
+**2. Digital Ebook Lending System – Frontend**
 - Frontend project for a digital ebook lending platform.
 - Focuses on user-friendly interface and ebook-related functionality.
 
